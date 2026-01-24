@@ -231,7 +231,7 @@ members = [
     #
 
     "tooling/perf",
-    "tooling/xtask",
+    "tooling/xtask", "tooling/miniprof_graph",
 ]
 default-members = ["crates/zed"]
 
